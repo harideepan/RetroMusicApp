@@ -1,0 +1,148 @@
+{
+  "project_info": {
+    "project_number": "764270222915",
+    "firebase_url": "https://retromusic-fe57d.firebaseio.com",
+    "project_id": "retromusic-fe57d",
+    "storage_bucket": "retromusic-fe57d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764270222915:android:7eabe778876e48e9",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764270222915-k9u6bsp9gmid6thg8u80csbipdh4gmdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Nulmrlq8Lis8lqCJ5U5QzaMvu8o3e3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764270222915:android:b89c49f161c743a9",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764270222915-fv3bgp5ui3msu92er92qq9rpe62l7t8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "code.name.monkey.retromusic.debug",
+            "certificate_hash": "99667eacc4d8415d5d7521bfa00f69d19b181e10"
+          }
+        },
+        {
+          "client_id": "764270222915-k9u6bsp9gmid6thg8u80csbipdh4gmdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Nulmrlq8Lis8lqCJ5U5QzaMvu8o3e3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764270222915-k9u6bsp9gmid6thg8u80csbipdh4gmdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764270222915:android:3e3eaf98ef3c78e7",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764270222915-k9u6bsp9gmid6thg8u80csbipdh4gmdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Nulmrlq8Lis8lqCJ5U5QzaMvu8o3e3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764270222915:android:a2c84375b3f9be92",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic.pro.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764270222915-k9u6bsp9gmid6thg8u80csbipdh4gmdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4Nulmrlq8Lis8lqCJ5U5QzaMvu8o3e3Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

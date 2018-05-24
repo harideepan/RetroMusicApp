@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+  <code.name.monkey.appthemehelper.common.prefs.supportv7.ATEPreferenceCategory android:title="Advanced">
+
+    <code.name.monkey.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+      android:defaultValue="false"
+      android:key="toggle_headset"
+      android:summary="@string/pref_summary_toggle_headset"
+      android:title="@string/pref_title_toggle_toggle_headset"/>
+    <code.name.monkey.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+      android:defaultValue="false"
+      android:key="toggle_shuffle"
+      android:summary="@string/pref_summary_toggle_shuffle"
+      android:title="@string/pref_title_toggle_toggle_shuffle"/>
+    <android.support.v7.preference.SeekBarPreference
+      android:defaultValue="0"
+      android:key="blur_amount"
+      android:max="255"
+      android:summary="Amount of blur applied for blur themes, lower is faster"
+      android:title="Blur theme"/>
+    <code.name.monkey.appthemehelper.common.prefs.supportv7.ATESwitchPreference
+      android:defaultValue="false"
+      android:key="keep_screen_on"
+      android:summary="Keep in mind enabling screen on may effect battery"
+      android:title="Screen on"/>
+
+  </code.name.monkey.appthemehelper.common.prefs.supportv7.ATEPreferenceCategory>
+</android.support.v7.preference.PreferenceScreen>
